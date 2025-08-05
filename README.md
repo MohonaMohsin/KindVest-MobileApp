@@ -44,7 +44,3 @@ KindVest is a mobile application built using React Native, Node.js, Express.js, 
 - Modular backend with scalable design
 
 ---
-
-
-e https://github.com/yourusername/kindvest-donation-volunteer-app.git
-   cd kindvest-donation-volunteer-app
