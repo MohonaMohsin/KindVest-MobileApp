@@ -1,4 +1,4 @@
-# KindVest: Donation and Volunteer System
+# KindVest: Mobile App for Donation & Volunteer Management
 
 KindVest is a mobile application built using React Native, Node.js, Express.js, and MongoDB. It is designed to streamline the process of managing donations and volunteer activities for nonprofit organizations. The app provides a secure, real-time platform for donors, volunteers, and administrators to connect and coordinate effectively.
 
