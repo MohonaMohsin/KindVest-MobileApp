@@ -43,4 +43,4 @@ KindVest is a mobile application built using React Native, Node.js, Express.js, 
 - Secure token storage and user session handling
 - Modular backend with scalable design
 
----
+
